@@ -2,4 +2,16 @@
     <string name="app_name">Sample</string>
     <string name="activity_hello_world">App/Activity/<b>Hello <i>World</i></b></string>
     <string name="activity_view_canvas">View/Canvas/Sample</string>
+    <string name="activity_view_practice">View/Canvas/Practice</string>
+    <string name="activity_view_canvas_practice1">practice1</string>
+    <string name="activity_view_canvas_practice2">practice2</string>
+    <string name="activity_view_canvas_practice3">practice3</string>
+    <string name="activity_view_canvas_practice4">practice4</string>
+    <string name="activity_view_canvas_practice5">practice5</string>
+    <string name="activity_view_canvas_practice6">practice6</string>
+    <string name="activity_view_canvas_practice7">practice7</string>
+    <string name="activity_view_canvas_practice8">practice8</string>
+    <string name="activity_view_canvas_practice9">practice9</string>
+    <string name="activity_view_canvas_practice10">practice10</string>
+    <string name="activity_view_canvas_practice11">practice11</string>
 </resources>

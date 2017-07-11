@@ -5,7 +5,7 @@ import android.os.Bundle;
 
 import com.milabobo.android.sample.R;
 
-public class ViewSample extends AppCompatActivity {
+public class Sample extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

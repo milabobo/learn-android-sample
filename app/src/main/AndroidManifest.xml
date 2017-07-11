@@ -25,9 +25,20 @@
                 <category android:name="android.intent.category.SAMPLE_CODE"/>
             </intent-filter>
         </activity>
-        <activity android:name=".view.ViewSample"
-                  android:label="@string/activity_view_canvas"
-                  android:theme="@style/AppTheme.NoActionBar">
+        <activity
+            android:name=".view.Sample"
+            android:label="@string/activity_view_canvas"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+
+                <category android:name="android.intent.category.SAMPLE_CODE"/>
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".view.Practice"
+            android:label="@string/activity_view_practice"
+            android:theme="@style/AppTheme.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
 
