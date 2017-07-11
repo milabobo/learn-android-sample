@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Sample</string>
+    <string name="activity_hello_world">App/Activity/<b>Hello <i>World</i></b></string>
+</resources>
